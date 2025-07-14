@@ -12,6 +12,7 @@ bool compareProcesses(Process& p1, Process& p2) {
   return (p1.RawRam() > p2.RawRam());
 };
 
+
 All_Processes::All_Processes() {
   Hertz = sysconf(_SC_CLK_TCK);
   UpdateProcesses();

@@ -11,6 +11,7 @@ string Format::Format(int time) {
   return string(2 - timeAsString.length(), '0') + timeAsString;
 }
 
+
 // INPUT: Long int measuring seconds
 // OUTPUT: HH:MM:SS
 // REMOVE: [[maybe_unused]] once you define the function

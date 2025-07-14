@@ -11,6 +11,7 @@ using std::vector;
 
 // Return the aggregate CPU utilization
 double Processor::Utilization() {
+  
   vector<double> values = ReadFile();
   double user = values[0];
   double nice = values[1];

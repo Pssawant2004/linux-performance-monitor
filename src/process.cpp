@@ -12,6 +12,7 @@
 #include "parser_helper.h"
 #include "process.h"
 
+
 using namespace std;
 
 Process::Process(int pid, long Hertz) : pid_(pid), Hertz_(Hertz) {

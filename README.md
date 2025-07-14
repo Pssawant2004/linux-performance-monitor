@@ -20,6 +20,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Instructions
 
+
 1. Clone the project repository: `git clone git@github.com:UtkarshChaurasia/Linux-System-Monitor.git`
 
 2. Build the project: `make build`
