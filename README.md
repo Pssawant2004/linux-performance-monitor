@@ -1,6 +1,6 @@
 # C++ Linux System Monitor - [DEMO](https://www.linkedin.com/posts/utkarshchaurasia_linux-cpp-oop-activity-6670235011100278784-6r2V)
 
-![System Monitor](images/monitor.png)
+![System Monitor](images/Dashboard.png)
 
 
 ## About
